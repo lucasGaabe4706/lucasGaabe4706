@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 Atualmente não trabalho em nenhuma área.
+- 🔭 Atualmente sou estagiário de Suporte de TI.
 - 🌱 Atualmente estou estudando HTML, CSS e JavaScript.
